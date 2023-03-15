@@ -71,7 +71,7 @@
   | SECRET_KEY      | suryaganteng                                                     |
   | SERVER_KEY      | SB-Mid-server-fJxxxxxxxxxxxxxxxxxxx3                             |
   | CLIENT_KEY      | SB-Mid-client-YUxxxxxxxxxxxxxMS                                  |
-  | EMAIL_SYSTEM    | suryaelidanto@gmail.com                                          |
+  | EMAIL_SYSTEM    | youremail@domain.com                                             |
   | PASSWORD_SYSTEM | rqxxxxxxxxxxxuu                                                  |
   | DB_HOST         | exx-xx-xx-xxx-xx.compute-1.amazonaws.com                         |
   | DB_NAME         | dboxxxxxxxb9e                                                    |
